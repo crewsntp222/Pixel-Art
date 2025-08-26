@@ -1,1 +1,0 @@
-alert("Hi this is my Website Page for Pixel Art!\nUse 50% zoom for best experience hi!")

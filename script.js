@@ -1,0 +1,1 @@
+alert("Hi this is my Website Page for Pixel Art!")

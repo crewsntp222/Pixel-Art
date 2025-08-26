@@ -1,0 +1,106 @@
+h1 {
+    font-size: 150px;
+    justify-content: center;
+    display: flex;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.image {
+    margin-left: 225px;
+    border: 7px solid black;
+    image-rendering: smooth;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+
+h2 {
+    font-size: 32px;
+    font-family: "Macondo", cursive;
+    text-align: center;
+    margin-right: 1800px;
+}
+
+body {
+background-color: bisque;
+
+}
+
+.sgm {
+
+border: 7px solid black;
+margin-left: 125px;
+}
+
+.miku {
+border: 7px solid black;
+}
+
+.mgs {
+border: 7px solid black;
+background: cyan;
+
+
+}
+
+.lmao {
+    width: 2515px;
+    height: 50px;
+    background: maroon;
+    display: inline-block;
+    display: flex;
+}
+
+.how{
+    font-size: 80px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-bottom: 2000px;
+}
+
+.the{
+    font-size: 40px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    margin-left: 2150px;
+    margin-bottom: 2000px;
+}
+   
+
+
+.cartman {
+    margin-left: 600px;
+    border: 7px solid black;
+    image-rendering: smooth;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+
+.desc {
+    margin-left: 720px;
+    width: 1000px;
+    height: 300px;
+}
+
+
+
+.monkey {
+    width: 2515px;
+    height: 0px;
+}
+
+.monk {
+    width: 2515px;
+    vertical-align: text-top;
+}
+
+.ilove {
+    font-size: 40px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    margin-left: 30px;
+}

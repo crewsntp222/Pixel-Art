@@ -23,7 +23,7 @@ h2 {
 
 body {
 background-color: bisque;
-
+margin: 0px;
 }
 
 .sgm {
@@ -43,33 +43,33 @@ background: cyan;
 
 }
 
-.lmao {
-    width: 2515px;
-    height: 50px;
-    background: maroon;
-    display: inline-block;
+.navbar ul{
+    list-style: none;
+    background-color: rgb(42, 42, 42);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
     display: flex;
-}
-
-.how{
-    font-size: 80px;
-    color: white;
+    justify-content: right;
+    font-size: 20px;
     font-family: "Roboto", sans-serif;
-    text-decoration: none;
-    margin-left: 20px;
-    margin-bottom: 2000px;
 }
 
-.the{
-    font-size: 40px;
+.navbar a{
     color: white;
-    font-family: "Roboto", sans-serif;
     text-decoration: none;
-    margin-left: 2150px;
-    margin-bottom: 2000px;
+    padding: 20px;
+    display: block;
+    text-align: center ;
 }
-   
 
+.navbar a:hover {
+    background-color: rgb(29, 29, 29);
+}
+
+.navbar li{
+    float: left;
+}
 
 .cartman {
     margin-left: 600px;
